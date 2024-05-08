@@ -47,4 +47,5 @@ You can use these with **Numbers**.
 * `*`: Multiply
 * `/`: Divide
 
-Python is a calculator! <div style="width:100px">![](task.png) </div> Try dividing by 0 to recognise your first error.
+Python is a calculator! <br>
+**TASK!**: Try dividing by 0 to recognise your first error.
