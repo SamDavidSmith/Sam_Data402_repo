@@ -147,7 +147,7 @@ The best way to learn is with an example. Previously, we had the Yellow Pages we
 ```
 area_phone_book = ['Gwyneth O\'Hara', 'Eleanor Connor', 'Sarah Blake', 'Sarah Connor']
 ``` 
-Remember your '\' character.
+Remember your `'\'` character.
 Now, our for loop will consist of:
 ```python
 for full_name in phone_book:
