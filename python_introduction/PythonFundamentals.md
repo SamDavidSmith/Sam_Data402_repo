@@ -1,4 +1,4 @@
-![](data_402_python/python_introduction/images/python_fund.png)
+![](images/python_fund.png)
 
 ### Why use Python?
 * Open-source (it's **FREE** to use personally or commercially)
@@ -12,7 +12,7 @@
 ## How to Download Python:
 
 * Head to the [Python downloads page](python.org/downloads/).
-* It is **recommended** to use PyCharm (head [here](https://www.jetbrains.com/pycharm/download/?section=windows)  and scroll to download the free Community Edition)  to edit your code. It's a really helpful tool which can even suggest ways to improve your work.![img_2.png](python_introduction/images/img_2.png)
+* It is **recommended** to use PyCharm (head [here](https://www.jetbrains.com/pycharm/download/?section=windows)  and scroll to download the free Community Edition)  to edit your code. It's a really helpful tool which can even suggest ways to improve your work.![img_2.png](images/img_2.png)
 * Open a **NEW** Project in PyCharm.
 * Choose Pure Python on the languages tab.
 * Press *Create*.
@@ -141,7 +141,7 @@ else:
 It's best to look at Python and try to read out what each line is doing. It's really useful to start off with something which you can build on. Just to warn you, we will be using a 'for loop' in the next section. Try to understand what each line in the function is doing, and why we're using each name in the phone book.
 
 ## Functions
-![terminator](data_402_python/python_introduction/images/Terminator-2-judgement-day.jpg)<br>
+![terminator](images/Terminator-2-judgement-day.jpg)<br>
 The best way to learn is with an example. Previously, we had the Yellow Pages we will be using, and we'll assign it to the variable `area_phone_book`.
 <br> 
 ```
